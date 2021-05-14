@@ -1,0 +1,5 @@
+[{"titulo":"levantar a los chicos", "estado":"realizado"},
+    {"titulo":"hacer el desayuno", "estado":"realizado"},
+    {"titulo":"vestirlos","estado":"en proceso"},
+    {"titulo":"llevarlos al colegio", "estado":"pendiente"},
+    {"titulo":"volver a casa","estado":"pendiente"}]
